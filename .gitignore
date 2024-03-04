@@ -1,3 +1,3 @@
-# Игнорировать все файлы с расширением .doc.
 *.doc
 
+/Users/ageldinov/Documents/C++/cpp-test-repo/text.doc
